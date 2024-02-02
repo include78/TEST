@@ -16,4 +16,4 @@
 - Выполнил студент: Артамонов Владимир
 - Проверил: Литвинов И.В.
 
-  $ ConsoleWhiteLine("Hello World!");
+        $ ConsoleWhiteLine("Hello World!");
