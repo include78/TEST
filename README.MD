@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://avatars.mds.yandex.net/i?id=766637e7fecd215c2916b5d4741bd5f4_l-5282144-images-thumbs&n=27&h=480&w=480" width= "400"></p>
 
-<p><a>href="https://vk.com/">ССЫЛКА</a></p>
+<p><a href="https://vk.com/">ССЫЛКА</a></p>
 
 ---
 
